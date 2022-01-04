@@ -2,17 +2,23 @@
 
 A simple clock using HTML CSS and Javascript. Just Playing with DOM and creating some projects and making For practicing
 
-# DEMO
+# Demo
+
+
+https://user-images.githubusercontent.com/95171638/148067012-6cebca1e-f7d7-4806-acd9-c67898f35b7e.mp4
+
+
 
 # Tools
-
 - HTML
 - CSS
 - Javascript
 
-# creator
+# Creator
+-[AmolShelke2](https://github.com/AmolShelke2)
 
-# MOre about the project
+
+# More about the project
 
 ## who am I
 
