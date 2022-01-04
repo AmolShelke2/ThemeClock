@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/95171638/148067012-6cebca1e-f7d7-4806-
 - Javascript
 
 # Creator
--[AmolShelke2](https://github.com/AmolShelke2)
+[AmolShelke2](https://github.com/AmolShelke2)
 
 
 # More about the project
