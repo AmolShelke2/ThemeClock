@@ -19,6 +19,8 @@ https://user-images.githubusercontent.com/95171638/148067012-6cebca1e-f7d7-4806-
 
 
 # More about the project
+Deployed on vercel [Vercel](theme-clock-nine.vercel.app
+)
 
 ## who am I
 
